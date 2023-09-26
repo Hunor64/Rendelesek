@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+img {
+    height: 75px;
+    filter: grayscale(100%);
+
+}
+
+.termekekNeve {
+    width: 200px;
+}
+
+.trTop,
+.trBottom {
+    background-color: #444444;
+    color: white;
+}
+
+div {
+    margin: auto;
+    width: 800px;
+    background-color: #bbbbbb;
+}
+h1{
+    size: 18px;
+}
+h2{
+    font-style: italic;
+}
